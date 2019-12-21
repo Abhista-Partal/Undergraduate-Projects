@@ -19,4 +19,8 @@ This folder contains the first two stages of my undergraduate project.
    ###### 2. MountainCar.
    ###### 3. SpaceInvaders.
    
+   Each of them has an option to train a new neural network or use the pretrained network to test the results.
+   The SpaceInvaders environment instead has the option to play the game to see the difficulty the agent faces in 
+   learning the game.
+   
 # 2) MATLAB Implementation of Neural Networks
