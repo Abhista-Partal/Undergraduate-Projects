@@ -24,3 +24,10 @@ This folder contains the first two stages of my undergraduate project.
    learning the game.
    
 # 2) MATLAB Implementation of Neural Networks
+This folder contains all the programs implementing different Neural Networks written in matlab without using any packages.
+   ###### 1. The perceptron_____.m codes show visualizations of how a basic perceptron Neural Network model classifies data in 1, 2
+   ###### and 3 features for classification respectively.
+   ###### 2. The RBF Neural Network is a simplification for the non-linear function reproduced by the hidden layers of the network. The
+   ###### code is written in the RBFcircle.m file where the datasets classification boundary is a circle.
+   ###### 3. The BackPropagation algorithm is implemented for a single hidden layer Neural Network in the BackProp.m file to classify
+   ###### for the same dataset used for the classification of the RBF Neural Network.
